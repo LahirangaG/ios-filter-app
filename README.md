@@ -20,8 +20,8 @@
 ---
 
 ## 📱 Screens  
-<img src="Resources/screenshot1.png" width="300" />  
-<img src="Resources/screenshot2.png" width="300" />
+<img src="Resources/screenshot 1.png" width="300" />  
+<img src="Resources/screenshot 2.png" width="300" />
 
 ---
 
